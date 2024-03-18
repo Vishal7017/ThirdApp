@@ -2,11 +2,11 @@ com.example.myquizapp-jetified-window-1.0.0-beta04-0 /Users/mozmar/.gradle/cache
 com.example.myquizapp-jetified-window-java-1.0.0-beta04-1 /Users/mozmar/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
 com.example.myquizapp-core-1.6.0-2 /Users/mozmar/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
 com.example.myquizapp-jetified-annotation-experimental-1.1.0-3 /Users/mozmar/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
-com.example.myquizapp-debug-4 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/android/app/src/debug/res
-com.example.myquizapp-main-5 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/android/app/src/main/res
-com.example.myquizapp-pngs-6 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/generated/res/pngs/debug
-com.example.myquizapp-resValues-7 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/generated/res/resValues/debug
-com.example.myquizapp-rs-8 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/generated/res/rs/debug
-com.example.myquizapp-mergeDebugResources-9 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.myquizapp-mergeDebugResources-10 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.myquizapp-merged_res-11 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/build/app/intermediates/merged_res/debug
+com.example.myquizapp-debug-4 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/android/app/src/debug/res
+com.example.myquizapp-main-5 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/android/app/src/main/res
+com.example.myquizapp-pngs-6 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/generated/res/pngs/debug
+com.example.myquizapp-resValues-7 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/generated/res/resValues/debug
+com.example.myquizapp-rs-8 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/generated/res/rs/debug
+com.example.myquizapp-mergeDebugResources-9 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.myquizapp-mergeDebugResources-10 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.myquizapp-merged_res-11 /Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/build/app/intermediates/merged_res/debug

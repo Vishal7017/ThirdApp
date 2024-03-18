@@ -4,7 +4,7 @@
             "outputFile": "com.example.myquizapp-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/ThirdApp/myquizapp/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/mozmar/Downloads/Sem 2/Xcode Projects/Flutter/First/ThirdApp/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

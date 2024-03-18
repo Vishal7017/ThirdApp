@@ -1,0 +1,1 @@
+ /Users/mozmar/Downloads/Sem\ 2/Xcode\ Projects/Flutter/First/ThirdApp/.dart_tool/flutter_build/a8d1dfb6e497ae8da484993bae8a1a87/native_assets.yaml: 
