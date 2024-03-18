@@ -37,11 +37,18 @@ class _QuizHomePageState extends State<QuizHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 164, 242, 233),
       appBar: AppBar(
-        title: Text('My Quiz'),
+        title: Text('Quiz with Random Numbers'),
+        backgroundColor: Colors.lightBlue[600],
       ),
-      body: Center(
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topRight,
+            end: Alignment.bottomLeft,
+            colors: [Colors.lightBlue[100]!, Colors.lightBlue[600]!],
+          ),
+        ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
